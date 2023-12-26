@@ -1,2 +1,2 @@
-# LandingPage
-Explore our sleek landing page showcasing an intuitive Invoice Generator. Experience easy customization and seamless PDF generation.
+This landing page is the result of applying HTML and CSS techniques derived from a comprehensive tutorial. It showcases the prowess of these technologies in developing a user-friendly interface for our Invoice Generator. Explore the seamless design, where HTML's structural finesse and CSS's styling capabilities merge to present a polished platform. Dive in to witness firsthand how these tutorial-inspired techniques have shaped an intuitive experience for efficient invoicing.</br>
+<a href="https://www.youtube.com/watch?v=p0bGHP-PXD4&pp=ygUYaHRtbCBjc3MgdHV0IHRyYWR2ZXJzeV09">Visit Tutorial Website</a>
